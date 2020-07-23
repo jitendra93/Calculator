@@ -6,5 +6,5 @@ fun main(){
 
     print(adder.perform())
     print(adder.perform())
-    print(Divider(3,4))
+    print(Divider(3,14))
 }
